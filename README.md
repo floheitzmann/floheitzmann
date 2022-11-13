@@ -6,4 +6,4 @@
     <a href="https://www.youtube.com/channel/UCImm7QF3lLwdU-qDAPZGdYQ"><img src="https://img.shields.io/badge/-Youtube-2D2B55?style=flat-square&logo=Youtube&logoColor=white"/></a>
 </p>
 
-I've been programming on personal projects since 2015. I have experience with Java, Dart, Flutter and Go. My current project is [Snapspot](https://snapspot.app), an app to find and share photo locations.
+I've been programming on personal projects since 2015. I have experience with Java, Dart, Flutter and Go. My current project is [Snapspot](https://snapspot.app), an app to find and share photo locations. Sometimes I also upload YouTube videos that have something to do with development.
